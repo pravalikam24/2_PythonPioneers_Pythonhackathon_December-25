@@ -42,9 +42,9 @@ The ultimate goal is to move beyond descriptive statistics and provide prescript
 •	Some probable cases remain untested, indicating potential barriers to access or awareness.
 •	Survey responses are concentrated in specific FSAs, suggesting areas where localized interventions may be most impactful.
 
-**Team Name:** 		  Python Pioneers            **Team Members:**    Afshan Syed
-				                                                            Ajain Kolas
-				                                                            Pravalika Maram
-				                                                            Saranya Palanisamy
-			                                                            	Sneha Jacob	
+**Team Name:** 		  Python Pioneers          		  **Team Members:**     Afshan Syed,
+				                                                            Ajain Kolas,
+				                                                            Pravalika Maram,
+				                                                            Saranya Palanisamy,
+			                                                            	Sneha Jacob.
   

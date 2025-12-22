@@ -9,6 +9,14 @@ The cleaned dataset used in this project contains approximately 294,000 survey r
 •	Geographic identifiers (FSA, province)
 •	Demographic attributes (age category, sex, ethnicity)
 
+**Data Availability Note**
+Due to GitHub file size limitations, the cleaned dataset
+`covid_python_Dec25.csv` is not stored in the repository.
+To reproduce the analysis:
+1. Use the raw CSV files in `data/raw/`
+2. Run `Data_Cleaning_&_Preprocessing.ipynb`
+3. This will regenerate the cleaned dataset in `data/cleaned/`
+
 **Problem Statement**
 During the COVID-19 pandemic, timely identification of high-risk individuals and behavioral gaps was critical for effective public health intervention. However, large survey datasets can be difficult to translate into actionable insights without structured analysis.
 This project aims to answer key public health questions such as:

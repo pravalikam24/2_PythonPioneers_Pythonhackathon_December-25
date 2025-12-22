@@ -1,9 +1,14 @@
 # Ignore cleaned data files (large)
 data/cleaned/*.csv
 
-# Ignore notebook checkpoints
-.ipynb_checkpoints/
+# Ignore all Jupyter checkpoints (any folder)
+**/.ipynb_checkpoints/
+
+# Ignore anaconda projects
+anaconda_projects/
 
 # OS files
 .DS_Store
+
+
 
